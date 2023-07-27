@@ -7,6 +7,7 @@ To get started using this program, you will need to clone the repository. Then, 
 
 ## Instructions of Use
 When you start running the program, everything should be working immediately. You will see lines in the console telling you what the program is doing, as shown below. 
+
 ![image](https://github.com/Mimsqueeze/Sorting-Simulator/assets/101283845/e13ffca4-f703-4748-ac4f-16280fb4f43c)
 
 The program can detect whether you are currently attacking in the game: if you are, then the program will simply print "Attacking..."" in the console. If you are not attacking, the program will proceed to locate a target, and click on the target's position after printing information in the console. Finally, to exit the program, simply input Ctrl+C in the console.
